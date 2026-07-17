@@ -23,17 +23,23 @@ I am focusing on common interview topics such as:
 ## Repository Structure
 
 ```text
-data structures & algorithms/
-├── arrays-and-hashing/
-├── two-pointers/
-├── sliding-window/
-├── stack/
-├── binary-search/
-├── linked-list/
-├── trees/
-├── graphs/
-├── dynamic-programming/
-README.md
+Data Structures & Algorithms/
+├── anagram-groups/
+│   ├── notes.md
+│   └── submission.py
+├── duplicate-integer/
+│   ├── notes.md
+│   └── submission.py
+├── is-anagram/
+│   ├── notes.md
+│   └── submission.py
+├── top-k-elements-in-list/
+│   ├── notes.md
+│   └── submission.py
+├── two-integer-sum/
+│   ├── notes.md
+│   └── submission.py
+└── README.md
 ```
 
 Each solution includes clean code and, when useful, notes about the approach, time complexity, and space complexity.
@@ -42,8 +48,8 @@ Each solution includes clean code and, when useful, notes about the approach, ti
 
 ```text
 problem-name/
-├── solution.py
-└── notes.md
+├── notes.md
+└── submission.py
 ```
 
 ## Progress
